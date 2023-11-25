@@ -16,7 +16,13 @@ The STM-9 is a great weapon, but it has some flaws. This mod aims to fix them, l
 
 Just drop the `user` folder into your `SPT` directory.
 
+## Issues
 
+The sound of the full auto fire mode is a bit weird. 
+
+## License
+
+This mod is licensed under the [MIT License](LICENSE).
 
 
 
