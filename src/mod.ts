@@ -32,7 +32,7 @@ class Mod implements IPostDBLoadMod, IPreAkiLoadMod
         ];
 
         // increases ergonomics
-        stm9._props.Ergonomics = 65;
+        stm9._props.Ergonomics = 60;
 
         // decreases heat factor
         stm9._props.HeatFactor = 0.9;
